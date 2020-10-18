@@ -15,6 +15,7 @@ It was tested on Windows 10 and Ubuntu 18.04 and python 3.6.8, but should work o
 ## Installation
 
 Download zip file and unzip it. Install python dependencies with
+
 `$ pip install -r requirements.txt`
 
 ## Basic usage (with defaults):
